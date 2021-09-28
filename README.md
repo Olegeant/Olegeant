@@ -1,3 +1,10 @@
+## Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">, I am Oleg (Krokodil) and I'm a Full Stack Developer
+
+<a href="mailto:o.slusarov@gmail.com" rel="noopener noreferrer" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/oleg-slyusarov/" rel="noopener noreferrer" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5?&logo=linkedin&logoColor=white" /></a> 
+<a href="https://t.me/Olegeant" rel="noopener noreferrer" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-0088CC?logo=telegram&logoColor=white" /></a>
+<a href="https://github.com/Olegeant" rel="noopener noreferrer" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-333?logo=github&logoColor=white" /></a>
+
 ### 📊 GitHub Stats
 <a href="https://github.com/Olegeant/Olegeant">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Olegeant&title_color=ffffff&show_icons=true&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" alt="Oleg's GitHub Stats" />
