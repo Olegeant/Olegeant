@@ -4,8 +4,7 @@
 <a href="https://www.linkedin.com/in/oleg-slyusarov/" rel="noopener noreferrer" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5?&logo=linkedin&logoColor=white" /></a> 
 <a href="https://t.me/Olegeant" rel="noopener noreferrer" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-0088CC?logo=telegram&logoColor=white" /></a>
 <a href="https://github.com/Olegeant" rel="noopener noreferrer" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-333?logo=github&logoColor=white" /></a>
-<br />
-<br />
+
 ## Let's meet on Codewars!
 <a href="https://www.codewars.com/users/Olegeant" rel="noopener noreferrer" target="_blank"><img src="https://www.codewars.com/users/Olegeant/badges/large" alt="codewars badge"></a>
 
